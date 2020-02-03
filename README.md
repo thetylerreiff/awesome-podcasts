@@ -24,7 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Eats
 *Is there a better pleasure in life then food?*
-[The Dave Chang Show](https://www.theringer.com/the-dave-chang-show) - Chats with with Famous Dave Chang.
+- [The Dave Chang Show](https://www.theringer.com/the-dave-chang-show) - Chats with with Famous Dave Chang.
 
 ## News
 
