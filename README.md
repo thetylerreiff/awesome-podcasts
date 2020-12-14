@@ -20,7 +20,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [JS Party](https://changelog.com/jsparty) - Excellent banter surrounding all things JavaScript.
 
 ## Data Science
-*From modeling to pracitcal applications, podcasts about Data Science*
+*From research to pracitcal applications, podcasts about Data Science*
 
 ## Eats
 *Is there a better pleasure in life then food?*
@@ -29,3 +29,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## News
 
 ## Money
+- [Robinhood Snacks](https://snacks.robinhood.com/) - Not investing advice, bite-sized business news.
